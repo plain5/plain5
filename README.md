@@ -8,7 +8,7 @@
 
 <p float="left">
 <img style="max-width: 100%;" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=plain5&show_icons=true&theme=blue-green&custom_title=My+GitHub+Stats">
-<img style="max-width: 100%;" height="125px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=plain5&theme=blue-green&langs_count=5&custom_title=My+Programming+Languages&layout=compact"
+<img style="max-width: 100%;" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=plain5&theme=blue-green&langs_count=5&custom_title=My+Programming+Languages&layout=compact"
 </p>
 <hr> 
 
