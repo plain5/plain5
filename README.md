@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h3 align="left"><a target="_blank" href="https://www.linkedin.com/in/dmytrii-kulyk/">My LinkedIn</a></h3> 
-<hr>
 <h3 align="center">📈 Stats 📈</h3> 
 <br>
 
