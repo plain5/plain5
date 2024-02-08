@@ -16,5 +16,14 @@
 <img style="max-width: 100%;" src="https://profile-counter.glitch.me/plain5/count.svg">
 </p>
 
+<hr> 
+<h3 align="left">Author of the following <code class="inlinecode">Terraform</code> modules :</h3> 
+<ul>
+  <li><i><b><a target="_blank" href="https://github.com/itsyndicate/terraform-aws-ses">AWS Simple Email Service (v2)</a></b></i></li>
+  <li><i><b><a target="_blank" href="https://github.com/itsyndicate/terraform-aws-elasticache">AWS ElastiCache</a></b></i></li>
+  <li><i><b><a target="_blank" href="https://github.com/itsyndicate/terraform-aws-opensearch">AWS OpenSearch</a></b></i></li>
+  <li><i><b><a target="_blank" href="https://github.com/itsyndicate/terraform-aws-secrets-manager">AWS Secrets Manager</a></b></i></li>
+  <li><i><b><a target="_blank" href="https://github.com/itsyndicate/terraform-aws-cloudwatch">AWS CloudWatch</a></b></i></li>
+</ul>
 </body>
 </html>
