@@ -16,7 +16,13 @@
 </p>
 
 <hr> 
-<h3 align="left">Author of the following <code class="inlinecode">Terraform</code> modules :</h3> 
+<h3 align="left">Author of the following <code class="inlinecode">projects</code> :</h3> 
+<ul>
+  <li><i><b><a target="_blank" href="https://github.com/itsyndicate/nodes-unused-images-cleanup">K8s nodes unused images cleanup</a></b></i></li>
+</ul>
+
+<hr> 
+<h3 align="left">Author of the following <code class="inlinecode">Terraform modules</code> :</h3> 
 <ul>
   <li><i><b><a target="_blank" href="https://github.com/itsyndicate/terraform-aws-ses">AWS Simple Email Service (v2)</a></b></i></li>
   <li><i><b><a target="_blank" href="https://github.com/itsyndicate/terraform-aws-elasticache">AWS ElastiCache</a></b></i></li>
