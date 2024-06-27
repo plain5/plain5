@@ -18,6 +18,7 @@
 <hr> 
 <h3 align="left">Author of the following <code class="inlinecode">projects</code> :</h3> 
 <ul>
+  <li><i><b><a target="_blank" href="https://github.com/itsyndicate/redis-keys-migrator">Redis keys migrator</a></b></i></li>
   <li><i><b><a target="_blank" href="https://github.com/itsyndicate/nodes-unused-images-cleanup">K8s nodes unused images cleanup</a></b></i></li>
 </ul>
 
