@@ -20,6 +20,8 @@
 <ul>
   <li><i><b><a target="_blank" href="https://github.com/itsyndicate/redis-keys-migrator">Redis keys migrator</a></b></i></li>
   <li><i><b><a target="_blank" href="https://github.com/itsyndicate/nodes-unused-images-cleanup">K8s nodes unused images cleanup</a></b></i></li>
+  <li><i><b><a target="_blank" href="https://github.com/plain5/Guard-Lite">Guard Lite</a></b></i></li>
+  <li><i><b><a target="_blank" href="https://github.com/plain5/EKS-Terragrunt">EKS-Terragrunt</a></b></i></li>
 </ul>
 
 <hr> 
